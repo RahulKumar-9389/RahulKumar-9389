@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A full stack developer who loves to build interactive and user-friendly applications.</h3>
 
-- 🌱 I’m currently learning **Debugging,DevOps,Data Structure & Algorithm**
+- 🌱 I’m currently learning **Data Structure & Algorithm**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/rahul-kumar-a3b96924b](www.linkedin.com/in/rahul-kumar-a3b96924b)
 
 - 📫 How to reach me **rahulkumar.programmer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eK1qlYWhhl-itk7nZejVA8Klp0S9auzY/view?usp=drive_link](https://drive.google.com/file/d/1eK1qlYWhhl-itk7nZejVA8Klp0S9auzY/view?usp=drive_link)
+- 📄 My Resume [https://drive.google.com/file/d/1eK1qlYWhhl-itk7nZejVA8Klp0S9auzY/view?usp=drive_link](https://drive.google.com/file/d/1eK1qlYWhhl-itk7nZejVA8Klp0S9auzY/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
